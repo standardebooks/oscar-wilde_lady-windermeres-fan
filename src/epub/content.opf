@@ -49,8 +49,8 @@
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A witty comedy that subverts the harsh social codes of Victorian England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Lady Windermere's Fan&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde’s&lt;/a&gt; first hit play, and the first of his enormously popular Comedies of society, which culminated with &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest"&gt;The Importance of Being Earnest&lt;/a&gt;&lt;/i&gt;. It opened on 20 February 1892, at the St James's Theatre in London, and went on to tour the country for months.&lt;/p&gt;
-			&lt;p&gt;In the play, Lady Windermere, who suspects that her husband is having an affair, decides to leave her husband. Her erstwhile rival, Mrs. Erlynne comes to her rescue, and convinces her to return to Lord Windermere before it becomes a scandal. In so doing, Mrs. Erlynne exposes herself to scandal and must sacrifice her reputation.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lady Windermere’s Fan&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde’s&lt;/a&gt; first hit play, and the first of his enormously popular Comedies of society, which culminated with &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest"&gt;The Importance of Being Earnest&lt;/a&gt;&lt;/i&gt;. It opened on 20 February 1892, at the St. James’s Theatre in London, and went on to tour the country for months.&lt;/p&gt;
+			&lt;p&gt;In the play, Lady Windermere, who suspects that her husband is having an affair, decides to leave him. Her erstwhile rival, Mrs. Erlynne comes to her rescue, and convinces her to return to Lord Windermere before it becomes a scandal. In so doing, Mrs. Erlynne exposes herself to scandal and must sacrifice her reputation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/790</dc:source>
