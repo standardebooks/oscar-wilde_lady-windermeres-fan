@@ -52,17 +52,14 @@ section[epub|type~="dedication"] > *{
 /* End dramatis personae */
 
 /* Scenes of the Play */
-#the-scenes-of-the-play > p{
+#the-scenes-of-the-play p{
+	text-align: center;
 	text-indent: 0;
 }
 
-#the-scenes-of-the-play table{
-	margin: auto;
-	text-align: initial;
-}
-
-#the-scenes-of-the-play table + p{
-	margin-top: 2em;
+#the-scenes-of-the-play p:nth-of-type(5),
+#the-scenes-of-the-play p:nth-of-type(7){
+	margin-top: 1em;
 }
 /* End Scenes of the Play */
 
