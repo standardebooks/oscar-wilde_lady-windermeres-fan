@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-03-28T00:05:18Z</dc:date>
+		<meta property="dcterms:modified">2022-03-28T00:05:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,15 +49,14 @@
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A witty comedy that subverts the harsh social codes of Victorian England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Lady Windermere’s Fan&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde’s&lt;/a&gt; first hit play, and the first of his enormously popular Comedies of society, which culminated with &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest"&gt;The Importance of Being Earnest&lt;/a&gt;&lt;/i&gt;. It opened on 20 February 1892, at the St. James’s Theatre in London, and went on to tour the country for months.&lt;/p&gt;
-			&lt;p&gt;In the play, Lady Windermere, who suspects that her husband is having an affair, decides to leave him. Her erstwhile rival, Mrs. Erlynne comes to her rescue, and convinces her to return to Lord Windermere before it becomes a scandal. In so doing, Mrs. Erlynne exposes herself to scandal and must sacrifice her reputation.&lt;/p&gt;
+			&lt;p&gt;Lady Windermere, who suspects that her husband is having an affair, decides to leave him. Her erstwhile rival, Mrs. Erlynne, comes to her rescue, and convinces her to return to Lord Windermere before the situation becomes a scandal. In so doing, Mrs. Erlynne exposes &lt;em&gt;herself&lt;/em&gt; to scandal, and must choose between her own reputation and saving the Windermeres’ relationship.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lady Windermere’s Fan&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde’s&lt;/a&gt; first hit play, and the first of his enormously popular comedies of society, which culminated with &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest"&gt;The Importance of Being Earnest&lt;/a&gt;&lt;/i&gt;. It opened on February 20, 1892 at the St. James’s Theatre in London, and went on to tour the country for months.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/790</dc:source>
 		<dc:source>https://archive.org/details/ladywindermeresf00wildrich</dc:source>
-		<meta property="se:production-notes">N/A</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">20230</meta>
+		<meta property="se:reading-ease.flesch">79.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lady_Windermere%27s_Fan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_lady-windermeres-fan</meta>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
@@ -81,6 +80,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
