@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Lady Windermere’s Fan: A Play About a Good Woman</dc:title>
 		<meta property="file-as" refines="#fulltitle">Lady Windermere’s Fan</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Marriage -- Drama</dc:subject>
 		<dc:subject id="subject-2">Mothers and daughters -- Drama</dc:subject>
 		<dc:subject id="subject-3">Aristocracy (Social class) -- Drama</dc:subject>
