@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan</dc:identifier>
 		<dc:date>2022-03-28T00:05:18Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Drama</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">A witty comedy that subverts the harsh social codes of Victorian England.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A witty comedy that subverts the harsh social codes of Victorian England.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Lady Windermere, who suspects that her husband is having an affair, decides to leave him. Her erstwhile rival, Mrs. Erlynne, comes to her rescue, and convinces her to return to Lord Windermere before the situation becomes a scandal. In so doing, Mrs. Erlynne exposes &lt;em&gt;herself&lt;/em&gt; to scandal, and must choose between her own reputation and saving the Windermeres’ relationship.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Lady Windermere’s Fan&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde’s&lt;/a&gt; first hit play, and the first of his enormously popular comedies of society, which culminated with &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest"&gt;The Importance of Being Earnest&lt;/a&gt;&lt;/i&gt;. It opened on February 20, 1892 at the St. James’s Theatre in London, and went on to tour the country for months.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/790</dc:source>
 		<dc:source>https://archive.org/details/ladywindermeresf00wildrich</dc:source>
